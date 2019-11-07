@@ -1,0 +1,3 @@
+rich library for Entrprise soln
+algorithm: high level soln
+application server / physical server
